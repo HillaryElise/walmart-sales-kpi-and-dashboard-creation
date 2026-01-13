@@ -2,7 +2,8 @@
 
 ## 📊 Executive Dashboard Preview
 
-![Walmart Sales Executive Dashboard](screenshots/walmart_dashboard.png)
+![Walmart Sales Executive Dashboard](walmart_dashboard.png)
+
 
 ---
 
