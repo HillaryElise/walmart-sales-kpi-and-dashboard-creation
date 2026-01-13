@@ -9,9 +9,9 @@
 
 ## 📌 Overview
 
-This project analyzes historical Walmart sales data to identify key performance indicators (KPIs) and present them in a **single-page, executive-level dashboard**. The analysis integrates weekly sales data with store metadata and external contextual factors to provide clear insights into sales trends, seasonality, promotional activity, and store efficiency.
+This project analyzes historical Walmart sales data to identify key performance indicators (KPIs) and present them in a **single-page, executive-level dashboard**. The analysis integrates weekly sales data with store and external contextual factors to provide clear insights into sales trends, seasonality, promotional activity, and store efficiency.
 
-The primary goal of this project is **descriptive and diagnostic analytics** — to understand what is happening in the data and why — rather than forecasting or predictive modeling.
+The primary goal of this project is **descriptive and diagnostic analytics** to understand what is happening in the data and rather than forecasting or predictive modeling.
 
 ---
 
@@ -85,7 +85,7 @@ The project culminates in a **single-page interactive Plotly dashboard** designe
 - Sales distribution by store type
 - Store size vs. total sales comparison
 
-An exported HTML version of the dashboard is included for easy sharing outside the notebook.
+An exported HTML version of the dashboard is included for easy sharing outside the notebook as well as a screen shot of the dashboard.
 
 ---
 
@@ -93,7 +93,7 @@ An exported HTML version of the dashboard is included for easy sharing outside t
 
 - Holiday weeks generate higher average weekly sales compared to non-holiday periods.
 - Larger stores generally produce higher total sales, but **efficiency varies** when measured by sales per square foot.
-- Store type materially impacts sales performance.
+- Store type impacts sales performance.
 - Markdowns are a common pricing lever, occurring in a significant share of store-weeks.
 - External economic indicators provide important context for interpreting sales trends.
 
@@ -121,7 +121,7 @@ An exported HTML version of the dashboard is included for easy sharing outside t
 
 - Run the notebook top to bottom to generate the dashboard inline.
 - Open the exported HTML file (`walmart_executive_dashboard.html`) in any web browser for full interactivity.
-- The dashboard can also be saved as a PDF for portfolio or presentation use.
+- The dashboard can also be saved as a image for portfolio or presentation use.
 
 ---
 
