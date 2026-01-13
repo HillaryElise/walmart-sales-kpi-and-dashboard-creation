@@ -1,6 +1,9 @@
 🛒 Walmart Sales KPI Analysis & Executive Dashboard
 
 
+## 📊 Executive Dashboard Preview
+
+![Walmart Sales Executive Dashboard](screenshots/walmart_dashboard.png)
 
 📌 Overview
 
